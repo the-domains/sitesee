@@ -1,0 +1,28 @@
+name: SiteSee
+favicon: null
+layout_spectrum: 0.8850223538465798
+typography_spectrum: 0.8710940938908607
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.7428534589707851
+  lightness: 0.22449741908349097
+  saturation: 0.2636493823956698
+  rhythmicContrast: 0.5811200486496091
+purpose: []
